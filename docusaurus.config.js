@@ -112,7 +112,7 @@ const config = {
               },
               {
                 label: 'LinkedIn',
-                href: 'www.linkedin.com/in/thoriq-yoga-pratama-67298b281',
+                href: 'https://linkedin.com/in/thoriq-yoga-pratama-67298b281',
               },
             ],
           },
